@@ -39,14 +39,11 @@ Customer segmentation involves dividing a customer base into distinct groups tha
 
 Install dependencies with:
 
-```bash
-pip install -r requirements.txt
-
+```bash pip install -r requirements.txt
+```
 ## Usage
 
 **Clone the repository:**
-
-
 git clone https://github.com/chaudhary-pawan/Customer_segmentation.git
 cd Customer_segmentation
 
@@ -56,9 +53,9 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 **Run through the notebook to see data exploration, clustering, and visualization steps.**
 ---
 
-##Images
+## Images :-
 ### Visualization
-![Heatmap](Data_Visualization/0.1.png)
+!["Heatmap"](Data_Visualization/0.1.png)
 ![Cor_rel](Data_Visualization/0.2.png)
 ![PCA_red](Data_Visualization/1.png)
 ![Distortion_score](Data_Visualization/2.png)
