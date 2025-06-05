@@ -23,3 +23,33 @@ Customer segmentation involves dividing a customer base into distinct groups tha
 - (Add more details about the dataset, its source, and features if available.)
 
 ## Project Structure
+
+
+
+## Requirements
+
+- Python 3.7+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- jupyter
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+
+## Usage
+
+**Clone the repository:**
+
+
+git clone https://github.com/chaudhary-pawan/Customer_segmentation.git
+cd Customer_segmentation
+
+**Launch the jupyter notebook:**
+jupyter notebook notebooks/customer_segmentation.ipynb
+
+**Run through the notebook to see data exploration, clustering, and visualization steps.**
