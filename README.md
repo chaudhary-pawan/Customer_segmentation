@@ -56,10 +56,8 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 ## Images :-
 ### Visualization
 !["Heatmap"](Data_Visualization/0.1.png)
-![Cor_rel](Data_Visualization/0.2.png)
 ![PCA_red](Data_Visualization/1.png)
-![Distortion_score](Data_Visualization/2.png)
-![PCA_red](Data_Visualization/1.png)
+
 
 
 ### Results
@@ -67,11 +65,6 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 ![Distr_cluster](Result/4.png)
 ![Cluster_analysis](Result/5.png)
 ![cluster_analysis](Result/6.png)
-![cluster_analysis](Result/7.png)
-![cluster_analysis](Result/8.png)
-![cluster_analysis](Result/9.png)
-![cluster_analysis](Result/10.png)
-![cluster_analysis](Result/11.png)
-![cluster_analysis](Result/12.png)
+
 
 
