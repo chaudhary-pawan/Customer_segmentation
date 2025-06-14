@@ -56,10 +56,8 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 ## Images :-
 ### Visualization
 !["Heatmap"](Data_Visualization/0.1.png)
-![Cor_rel](Data_Visualization/0.2.png)
 ![PCA_red](Data_Visualization/1.png)
-![Distortion_score](Data_Visualization/2.png)
-![PCA_red](Data_Visualization/1.png)
+
 
 
 ### Results
